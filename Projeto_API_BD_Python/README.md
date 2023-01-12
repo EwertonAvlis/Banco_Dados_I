@@ -4,11 +4,11 @@
 
 ## Grupo 1:
 
-* Alana Nunes (\alananunes)
-* Deivid Gabriel [\deivid]
-* Ewerton Costa
-* Hugo Negrão
-* Vinicius Silva [\Vinicius999]
+* Alana Nunes (https://github.com/alananunes)
+* Deivid Gabriel (https://github.com/)
+* Ewerton Costa (https://github.com/EwertonAvlis)
+* Hugo Negrão (https://github.com/hugonegrao)
+* Vinicius Silva (https://github.com/Vinicius999)
 
 ### TEMA: Consumo de API pelo python com integração a um Banco de Dados
 
