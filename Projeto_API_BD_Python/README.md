@@ -10,7 +10,7 @@
 * [Hugo Negrão](https://github.com/hugonegrao)
 * [Vinicius Silva](https://github.com/Vinicius999)
 
-### TEMA: Consumo de API pelo python com integração a um Banco de Dados
+## TEMA: Consumo de API pelo python com integração a um Banco de Dados
 
 
 **Contexto**
