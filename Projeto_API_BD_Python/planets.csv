@@ -26,8 +26,9 @@ id_planets;name;diameter;climate;gravity;terrain;population
 25;Dantooine;9830;temperate;1 standard;oceans, savannas, mountains, grasslands;1000
 26;Bestine IV;6400;temperate;0;rocky islands, oceans;62000000
 27;Ord Mantell;14050;temperate;1 standard;plains, seas, mesas;4000000000
-28;0;0;0;0;0;0
+28;unknown;0;0;0;0;0
 29;Trandosha;0;arid;0.62 standard;mountains, seas, grasslands, deserts;42000000
+30;Socorro;0;arid;1 standard;deserts, mountains;300000000
 31;Mon Cala;11030;temperate;1;oceans, reefs, islands;27000000000
 32;Chandrila;13500;temperate;1;plains, forests;1200000000
 33;Sullust;12780;superheated;1;mountains, volcanoes, rocky deserts;18500000000
